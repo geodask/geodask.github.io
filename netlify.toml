@@ -4,5 +4,5 @@
     status = 200
 [[headers]]
     for = "/*"
-    [headers.value]
+    [headers.values]
         Access-Control-Allow-Origin = "*"

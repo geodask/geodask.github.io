@@ -2,3 +2,7 @@
     from = "/interactive-comments-section/*"
     to = "https://geodask-ics.netlify.app/"
     status = 200
+[[headers]]
+    for = "/interactice-comments-section/*"
+    [headers.value]
+        Access-Control-Allow-Origin = "https://geodask-ics.netlify.app"

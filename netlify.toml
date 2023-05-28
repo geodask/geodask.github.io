@@ -1,4 +1,4 @@
 [[redirects]]
-    from = "/interactive-comments-section"
-    to = "https://geodask-ics.netlify.app"
+    from = "/interactive-comments-section/*"
+    to = "https://geodask-ics.netlify.app/"
     status = 200
